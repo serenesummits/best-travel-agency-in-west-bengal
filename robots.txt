@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://serenesummits.in/west-bengal/sitemap.xml
